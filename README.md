@@ -10,7 +10,7 @@ This is what the end result looks like:
 ![nerub](https://user-images.githubusercontent.com/59528934/153436618-a2ec6dd4-df27-4fcc-8f90-9d00e93daf93.png)
  
 # Installation
-- Click on the green "Code" button and choose "Download Zip";
+- Click on the green "Code" button up top and choose "Download Zip";
 - Download and unpack the archive. Find **custom2** folder inside.
 - Move the **custom2** folder in to **\World of Warcraft\Interface\AddOns\WIIIUI\art**;
 - Open addon menu in game and click on the **Custom2** button to apply it;
