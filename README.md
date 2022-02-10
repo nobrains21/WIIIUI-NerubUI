@@ -22,3 +22,4 @@ Feel free to bash me for leaving some unfinished stuff here and there.
 #Known issues:
 - the long middle bar is a bit wonky - its just is. Sorry.
 - there is a gap between the Lid and most right side of the chat-field. No idea why.
+- the whole thing is a bit low res. The base i used was low quality, ill try to make it better later.
