@@ -11,7 +11,7 @@ This is what the end result looks like:
  
 # Installation
 - Click on the green "Code" button and choose "Download Zip";
-- Download and unpack archive. Go inside of it and find **custom2** folder.
+- Download and unpack the archive. Find **custom2** folder inside.
 - Move the **custom2** folder in to **\World of Warcraft\Interface\AddOns\WIIIUI\art**;
 - Open addon menu in game and click on the **Custom2** button to apply it;
  
