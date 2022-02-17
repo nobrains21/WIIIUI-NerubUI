@@ -7,8 +7,8 @@ Skin is based on NerubianUI, made by [unwirklich](https://www.deviantart.com/unw
 All credits for the art i used to make this skin should go to him. I own none of it and will remove this if promted.
 ___
 This is what the end result looks like:
-![nerub](https://user-images.githubusercontent.com/59528934/153436618-a2ec6dd4-df27-4fcc-8f90-9d00e93daf93.png)
- 
+ ![nerub1](https://user-images.githubusercontent.com/59528934/154422122-1efe9ea5-dbaa-4445-96a8-ba830cdd04e2.png)
+
 # Installation
 - Download [WIIIUI Addon](https://github.com/Fiurs-Hearth/WIIIUI) and install it;
 - Click on the green "Code" button up top and choose "Download Zip";
@@ -21,6 +21,5 @@ In case you already have custom skins installed - change folder's name from **cu
 Feel free to bash me for leaving some unfinished stuff here and there. 
  
 # Known issues:
-- the long middle bar is a bit wonky - its just is. Sorry.
-- there is a gap between the Lid and most right side of the chat-field. No idea why.
-- the whole thing is a bit low res. The base i used was low quality, ill try to make it better later.
+- the long middle bar is a bit wonky - its just is. Sorry..
+- the whole thing is ~~a bit low~~ sligltly higher res than it was. The base i used was low quality, ill try to make it better later.
